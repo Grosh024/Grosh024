@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Grosh024
-- 🌱 new to Github
+- 👋 Hello
+- 🌱 
 -  currently studying data science and machine learning in college.
 - 🖥️ looking to learn the world of software
 
