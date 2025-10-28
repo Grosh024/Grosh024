@@ -1,7 +1,6 @@
 - 👋 Hello
 - 🌱 
--  currently studying data science and machine learning in college.
-- 🖥️ looking to learn the world of software
+- 🖥️ current student of studying data science and machine learning.
 
 <!---
 Grosh024/Grosh024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
